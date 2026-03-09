@@ -1,0 +1,79 @@
+================================================================
+Title                   : IKBASE texture wad for Quake levels , revision 2
+Date                    : 11/10/1999
+Filename                : ikbase.wad
+Author                  : Iikka "Fingers" Keranen
+                          (or Ker&auml;nen if you like em dots better)
+Email Address           : fingers@mail.planetquake.com
+Home Page               : www.planetquake.com/ikq/ (visit there!)
+Description             : This is the texture wad that I used in my
+                          Q1 level IKSPQ5. All the textures in this
+                          wad are made by me from scratch. I have all
+                          rights to them, read the legal information
+                          before you do anything with these.
+
+                          This is a set of well made military base
+                          textures. Since I made these while building
+                          my level, the wad lacks some texture types
+                          like water and flashing buttons which I didn't
+                          need.
+
+                          This revision adds more floors, some 32x128
+                          panels and more importantly, step textures.
+
+Additional Credits to   : The authors of Deluxe Paint and GFX2
+
+================================================================
+
+* Information *
+
+This is a texture wad that can be used as a source for QBSP when
+you create add-on levels for Quake. 
+
+* Construction *
+
+Base                    : from scratch
+Editor(s) used          : Deluxe Paint (the oldest version, 1985 or so..)
+                          Imap (my own program)
+                          Image Alchemy shareware v1.9
+                          Newwad 1.6
+Known Bugs              : Bugs in a texture wad? Hmm.. I don't think so.
+Build Time              : ~two weeks while making IKSPQ5 level, two days
+                          for the later textures.
+
+* Other Info *
+
+Get IKSPQ5 level to see these textures in action. It is available
+at http://www.planetquake.com/ikq/levels.htm .
+
+* Legal Stuff *
+
+These textures may be freely used and distributed, under the following
+conditions:
+
+- My name (Iikka Keranen) is mentioned. With single levels, the "Additional
+  credits" section is where you put my name. With conversions and level
+  paks, or projects involving several people, I would be a "co-author".
+
+- No money is charged for distributing this texture wad or ANY PRODUCT USING
+  THESE TEXTURES. I am the only person who has the right to get money for
+  selling these textures. You use them for free, you distribute them free!
+
+- These textures are not modified without my permission; Modified textures
+  remain my property. Modified versions of this texture wad, or combinations
+  of this and other wads may not be distributed. Only attach wads together
+  for your own personal use. 
+
+- This text file (ikbase.txt) is included in the product (.zip file or other)
+  and is mentioned in the product's own text files. (Mainly for the
+  commercial distributor info below)
+
+- If you wish to use these textures, or levels containing these textures,
+  in a commercial product such as level collection CD-ROM, total conversion,
+  or basically anything that is sold for money, I require a profit-based
+  payment, or some hundred dollars one-time payment per a level using my
+  artwork. This is not to be paid by the level author, but the publisher.
+  You MUST contact me and make an offer before trying to commercially dis-
+  tribute my artwork!
+
+*** End of text file ***
