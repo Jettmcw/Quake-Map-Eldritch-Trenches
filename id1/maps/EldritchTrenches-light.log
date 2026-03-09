@@ -1,0 +1,47 @@
+---- light / ericw-tools 2.0.0-alpha10-54-g07dbcb3b ----
+LoadBSPFile: 'EldritchTrenches.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+img::ConvertTextures: WARNING: invalid size data for 
+Loading extended texinfo flags from EldritchTrenches.texinfo.json...
+Loading extended content flags from EldritchTrenches.content.json...
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \.
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \.
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \.
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \e
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \q
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \p
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \p
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \.
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \.
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \.
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \e
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \q
+WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \Q
+2 entities read, 0 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+DecompressAllVis: invalid visofs for leaf 0
+Embree_TraceInit: Embree version: 4.4.0
+Embree_TraceInit: 
+	0 sky faces
+	6 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 0 initial lights
+SetupLights: 0 after surface lights
+SetupLights: 0 after jittering
+Final count: 0 lights, 0 suns in use.
+0 surface light points in use.
+map uses color: false
+lightmap size (total): 0
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing EldritchTrenches.bsp as Quake BSP bsp29
+0.003s seconds elapsed
+0 empty lightmaps
+
+
