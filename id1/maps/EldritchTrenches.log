@@ -30,83 +30,83 @@ WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \i
 WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \I
 WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \R
 WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \R
-      257 entities
-       24 unique textures
-      473 texinfos
-    1,636 unique planes
+      293 entities
+       29 unique textures
+      688 texinfos
+    1,738 unique planes
 
 INFO: world extents calculated to 6024 units
-      501 brushes
-    3,013 sides
-    1,140 side bevels
+      529 brushes
+    3,198 sides
+    1,248 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    482 SOLID brushes
+    508 SOLID brushes
       8 SKY brushes
-    490 brushes total
-    2,955 visible sides
-INFO: calculating BSP for 490 brushes with 2955 sides
-      490 brushes
-    2,955 visible faces
-    14,637 nodes
-     7,397 expensive split nodes
-     7,240 mid-split nodes
-    14,638 leaves
-     4,667 EMPTY leafs
-       644 SKY leafs
-     9,024 SOLID leafs
-       303 SOLID | SKY leafs
-    14,638 leafs total
-    38 max tree height
+    516 brushes total
+    3,128 visible sides
+INFO: calculating BSP for 516 brushes with 3128 sides
+      516 brushes
+    3,128 visible faces
+    15,106 nodes
+     7,544 expensive split nodes
+     7,562 mid-split nodes
+    15,107 leaves
+     4,797 EMPTY leafs
+       655 SKY leafs
+     9,345 SOLID leafs
+       310 SOLID | SKY leafs
+    15,107 leafs total
+    39 max tree height
     18 avg tree height
-    79 tiny portals
-    56,933 tree portals
-    1,603 outside leaves
+    83 tiny portals
+    58,812 tree portals
+    1,629 outside leaves
     0 detail filled leafs
-      490 brushes
-    1,480 visible faces
-    1,475 non-visible faces
-    5,346 nodes
-    2,404 non-visible nodes
-    5,346 expensive split nodes
-    5,347 leaves
-    1,541 EMPTY leafs
-      251 SKY leafs
-    3,405 SOLID leafs
-      150 SOLID | SKY leafs
-    5,347 leafs total
-    29 max tree height
+      516 brushes
+    1,579 visible faces
+    1,549 non-visible faces
+    5,589 nodes
+    2,474 non-visible nodes
+    5,589 expensive split nodes
+    5,590 leaves
+    1,601 EMPTY leafs
+      248 SKY leafs
+    3,595 SOLID leafs
+      146 SOLID | SKY leafs
+    5,590 leafs total
+    31 max tree height
     17 avg tree height
-    50 tiny portals
-    23,330 tree portals
-    650 outside leaves
+    52 tiny portals
+    24,479 tree portals
+    667 outside leaves
     0 detail filled leafs
-    50 tiny portals
-    23,330 tree portals
-    8,144 sides visible
-    4,139 makefaces
-    1,422 merged
-    1,295 subdivided
-    2,790 nodes pruned
-    8 tiny portals
-    1,142 player-occupiable leaves
-    1,142 clusters of leaves
-    3,433 vis portals
-    1,328 SOLID leafs
-      251 SKY leafs
-      891 EMPTY leafs
-       87 SOLID | SKY leafs
-    2,557 leafs total
-    27 max tree height
+    52 tiny portals
+    24,479 tree portals
+    8,634 sides visible
+    4,392 makefaces
+    1,523 merged
+    1,216 subdivided
+    2,917 nodes pruned
+    9 tiny portals
+    1,182 player-occupiable leaves
+    1,182 clusters of leaves
+    3,531 vis portals
+    1,406 SOLID leafs
+      248 SKY leafs
+      934 EMPTY leafs
+       85 SOLID | SKY leafs
+    2,673 leafs total
+    29 max tree height
     15 avg tree height
-     3,579 edges added by tjunctions
-     3,780 faces optimized through MWT
-    11,277 triangles computed from MWT
-       939 faces created via optimization of MWT triangles
-    10,633 edges
-     4,891 faces
+     3,551 edges added by tjunctions
+     3,844 faces optimized through MWT
+    11,413 triangles computed from MWT
+       935 faces created via optimization of MWT triangles
+    10,770 edges
+     4,957 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 284 >= 127)
@@ -115,21 +115,21 @@ Wrote EldritchTrenches.bsp
 
 count   lump name    byte size 
       1 models               64
-   1731 planes            34620
-   5660 vertexes          67920
-   2556 nodes             61344
-    288 texinfos          11520
-   4891 faces             97820
-   6729 clipnodes         53832
-   1143 leafs             32004
-   5679 marksurfaces      11358
-  10634 edges             42536
-  21231 surfedges         84924
-     24 textures         286620
+   1927 planes            38540
+   5735 vertexes          68820
+   2672 nodes             64128
+    401 texinfos          16040
+   4957 faces             99140
+   6931 clipnodes         55448
+   1183 leafs             33124
+   5817 marksurfaces      11634
+  10771 edges             43084
+  21505 surfedges         86020
+     29 textures         319480
         lightdata             0
         visdata               0
-        entdata           13938
+        entdata           15834
 
-0.828s seconds elapsed
+0.896s seconds elapsed
 
 
