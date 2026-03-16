@@ -20,106 +20,116 @@ WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \.
 WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \e
 WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \q
 WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \Q
-       62 entities
-        8 unique textures
-      286 texinfos
-    1,542 unique planes
+WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \i
+WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \m
+WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \i
+WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \w
+WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \h
+WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \h
+WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \i
+WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \I
+WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \R
+WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \R
+      257 entities
+       24 unique textures
+      473 texinfos
+    1,636 unique planes
 
 INFO: world extents calculated to 6024 units
-      462 brushes
-    2,779 sides
-    1,035 side bevels
+      501 brushes
+    3,013 sides
+    1,140 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    443 SOLID brushes
+    482 SOLID brushes
       8 SKY brushes
-    451 brushes total
-    2,721 visible sides
-INFO: calculating BSP for 451 brushes with 2721 sides
-      451 brushes
-    2,721 visible faces
-    12,273 nodes
-     5,831 expensive split nodes
-     6,442 mid-split nodes
-    12,274 leaves
-     4,222 EMPTY leafs
-       543 SKY leafs
-     7,285 SOLID leafs
-       224 SOLID | SKY leafs
-    12,274 leafs total
+    490 brushes total
+    2,955 visible sides
+INFO: calculating BSP for 490 brushes with 2955 sides
+      490 brushes
+    2,955 visible faces
+    14,637 nodes
+     7,397 expensive split nodes
+     7,240 mid-split nodes
+    14,638 leaves
+     4,667 EMPTY leafs
+       644 SKY leafs
+     9,024 SOLID leafs
+       303 SOLID | SKY leafs
+    14,638 leafs total
     38 max tree height
     18 avg tree height
-    82 tiny portals
-    47,930 tree portals
-    1,375 outside leaves
+    79 tiny portals
+    56,933 tree portals
+    1,603 outside leaves
     0 detail filled leafs
-      451 brushes
-    1,410 visible faces
-    1,311 non-visible faces
-    4,165 nodes
-    1,788 non-visible nodes
-    4,165 expensive split nodes
-    4,166 leaves
-    1,321 EMPTY leafs
-      210 SKY leafs
-    2,517 SOLID leafs
-      118 SOLID | SKY leafs
-    4,166 leafs total
+      490 brushes
+    1,480 visible faces
+    1,475 non-visible faces
+    5,346 nodes
+    2,404 non-visible nodes
+    5,346 expensive split nodes
+    5,347 leaves
+    1,541 EMPTY leafs
+      251 SKY leafs
+    3,405 SOLID leafs
+      150 SOLID | SKY leafs
+    5,347 leafs total
     29 max tree height
     17 avg tree height
-    31 tiny portals
-    18,555 tree portals
-    504 outside leaves
+    50 tiny portals
+    23,330 tree portals
+    650 outside leaves
     0 detail filled leafs
-    31 tiny portals
-    18,555 tree portals
-    7,450 sides visible
-    3,786 makefaces
-    1,267 merged
-    1,332 subdivided
-    1,970 nodes pruned
+    50 tiny portals
+    23,330 tree portals
+    8,144 sides visible
+    4,139 makefaces
+    1,422 merged
+    1,295 subdivided
+    2,790 nodes pruned
     8 tiny portals
-    1,027 player-occupiable leaves
-    1,027 clusters of leaves
-    3,046 vis portals
-    1,104 SOLID leafs
-      210 SKY leafs
-       65 SOLID | SKY leafs
-      817 EMPTY leafs
-    2,196 leafs total
+    1,142 player-occupiable leaves
+    1,142 clusters of leaves
+    3,433 vis portals
+    1,328 SOLID leafs
+      251 SKY leafs
+      891 EMPTY leafs
+       87 SOLID | SKY leafs
+    2,557 leafs total
     27 max tree height
     15 avg tree height
-     3,531 edges added by tjunctions
-     3,655 faces optimized through MWT
-    10,953 triangles computed from MWT
-       911 faces created via optimization of MWT triangles
-    10,265 edges
-     4,708 faces
+     3,579 edges added by tjunctions
+     3,780 faces optimized through MWT
+    11,277 triangles computed from MWT
+       939 faces created via optimization of MWT triangles
+    10,633 edges
+     4,891 faces
 Processing hull 1...
 Processing hull 2...
-WARNING: worldspawn at 0 0 0 has long value for key wad (length 129 >= 127)
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 284 >= 127)
 Writing EldritchTrenches.bsp as Quake BSP bsp29
 Wrote EldritchTrenches.bsp
 
 count   lump name    byte size 
       1 models               64
-   1661 planes            33220
-   5488 vertexes          65856
-   2195 nodes             52680
-    170 texinfos           6800
-   4708 faces             94160
-   6341 clipnodes         50728
-   1028 leafs             28784
-   5476 marksurfaces      10952
-  10266 edges             41064
-  20511 surfedges         82044
-      8 textures          68316
+   1731 planes            34620
+   5660 vertexes          67920
+   2556 nodes             61344
+    288 texinfos          11520
+   4891 faces             97820
+   6729 clipnodes         53832
+   1143 leafs             32004
+   5679 marksurfaces      11358
+  10634 edges             42536
+  21231 surfedges         84924
+     24 textures         286620
         lightdata             0
         visdata               0
-        entdata             816
+        entdata           13938
 
-0.736s seconds elapsed
+0.828s seconds elapsed
 
 

@@ -1,0 +1,23 @@
+---- vis / ericw-tools 2.0.0-alpha10-54-g07dbcb3b ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+LoadBSPFile: 'EldritchTrenches.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+Loading extended texinfo flags from EldritchTrenches.texinfo.json...
+  1142 leafs
+  1142 clusters
+  3433 portals
+Calculating Base Vis:
+Calculating Full Vis:
+Expanding clusters...
+average leafs visible: 222
+c_noclip: 0
+c_chains: 30586041
+visdatasize:95857  compressed from 163306
+Writing EldritchTrenches.bsp as Quake BSP bsp29
+3.61s elapsed
+
+
