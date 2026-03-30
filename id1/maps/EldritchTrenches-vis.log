@@ -7,17 +7,17 @@ LoadBSPFile: 'EldritchTrenches.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
 Loading extended texinfo flags from EldritchTrenches.texinfo.json...
-  1198 leafs
-  1198 clusters
-  3586 portals
+  1284 leafs
+  1284 clusters
+  3934 portals
 Calculating Base Vis:
 Calculating Full Vis:
 Expanding clusters...
-average leafs visible: 236
+average leafs visible: 275
 c_noclip: 0
-c_chains: 31759236
-visdatasize:105360  compressed from 179700
+c_chains: 65236317
+visdatasize:125121  compressed from 206724
 Writing EldritchTrenches.bsp as Quake BSP bsp29
-3.85s elapsed
+8.14s elapsed
 
 
