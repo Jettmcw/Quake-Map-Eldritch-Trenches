@@ -28,29 +28,29 @@ WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \i
 WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \I
 WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \R
 WARNING: EldritchTrenches.bsp[line 3]: Unrecognised string escape - \R
-243 entities read, 197 are lights.
+273 entities read, 213 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
 
 Embree_TraceInit: Embree version: 4.4.0
 Embree_TraceInit: 
-	91 sky faces
-	5089 solid faces
+	104 sky faces
+	5371 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 197 initial lights
-SetupLights: 197 after surface lights
-SetupLights: 197 after jittering
-Final count: 197 lights, 0 suns in use.
+SetupLights: 213 initial lights
+SetupLights: 213 after surface lights
+SetupLights: 213 after jittering
+Final count: 213 lights, 0 suns in use.
 0 surface light points in use.
 map uses color: false
-lightmap size (total): 235916
+lightmap size (total): 242232
 Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing EldritchTrenches.bsp as Quake BSP bsp29
-0.125s seconds elapsed
+0.127s seconds elapsed
 0 empty lightmaps
 
 

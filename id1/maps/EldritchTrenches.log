@@ -30,83 +30,83 @@ WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \i
 WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \I
 WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \R
 WARNING: EldritchTrenches-compile.map[line 4]: Unrecognised string escape - \R
-      301 entities
-       29 unique textures
-      702 texinfos
-    1,842 unique planes
+      332 entities
+       35 unique textures
+      738 texinfos
+    1,892 unique planes
 
 INFO: world extents calculated to 6024 units
-      567 brushes
-    3,426 sides
-    1,318 side bevels
+      587 brushes
+    3,594 sides
+    1,276 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    534 SOLID brushes
+    543 SOLID brushes
       8 SKY brushes
-    542 brushes total
-    3,285 visible sides
-INFO: calculating BSP for 542 brushes with 3285 sides
-      542 brushes
-    3,285 visible faces
-    13,677 nodes
-     7,483 expensive split nodes
-     6,194 mid-split nodes
-    13,678 leaves
-     4,411 EMPTY leafs
-       616 SKY leafs
-     8,365 SOLID leafs
-       286 SOLID | SKY leafs
-    13,678 leafs total
+    551 brushes total
+    3,387 visible sides
+INFO: calculating BSP for 551 brushes with 3387 sides
+      551 brushes
+    3,387 visible faces
+    14,282 nodes
+     7,623 expensive split nodes
+     6,659 mid-split nodes
+    14,283 leaves
+     4,639 EMPTY leafs
+       614 SKY leafs
+     8,749 SOLID leafs
+       281 SOLID | SKY leafs
+    14,283 leafs total
     39 max tree height
     18 avg tree height
     46 tiny portals
-    54,407 tree portals
-    1,531 outside leaves
+    56,842 tree portals
+    1,557 outside leaves
     0 detail filled leafs
-      542 brushes
-    1,645 visible faces
-    1,640 non-visible faces
-    5,860 nodes
-    2,551 non-visible nodes
-    5,860 expensive split nodes
-    5,861 leaves
-    1,708 EMPTY leafs
-      259 SKY leafs
-    3,748 SOLID leafs
+      551 brushes
+    1,735 visible faces
+    1,652 non-visible faces
+    5,901 nodes
+    2,459 non-visible nodes
+    5,901 expensive split nodes
+    5,902 leaves
+    1,766 EMPTY leafs
+      289 SKY leafs
+    3,701 SOLID leafs
       146 SOLID | SKY leafs
-    5,861 leafs total
-    30 max tree height
-    16 avg tree height
+    5,902 leafs total
+    31 max tree height
+    17 avg tree height
     53 tiny portals
-    25,704 tree portals
-    683 outside leaves
+    25,805 tree portals
+    700 outside leaves
     0 detail filled leafs
     53 tiny portals
-    25,704 tree portals
-    9,098 sides visible
-    4,622 makefaces
-    1,555 merged
-    1,249 subdivided
-    2,967 nodes pruned
+    25,805 tree portals
+    9,046 sides visible
+    4,609 makefaces
+    1,333 merged
+    1,235 subdivided
+    2,860 nodes pruned
     14 tiny portals
-    1,284 player-occupiable leaves
-    1,284 clusters of leaves
-    3,934 vis portals
-    1,520 SOLID leafs
-      259 SKY leafs
-       90 SOLID | SKY leafs
-    1,025 EMPTY leafs
-    2,894 leafs total
-    27 max tree height
-    15 avg tree height
-     3,670 edges added by tjunctions
-     4,095 faces optimized through MWT
-    12,025 triangles computed from MWT
-       931 faces created via optimization of MWT triangles
-    11,283 edges
-     5,180 faces
+    1,355 player-occupiable leaves
+    1,355 clusters of leaves
+    4,074 vis portals
+    1,594 SOLID leafs
+      289 SKY leafs
+       93 SOLID | SKY leafs
+    1,066 EMPTY leafs
+    3,042 leafs total
+    31 max tree height
+    16 avg tree height
+     3,928 edges added by tjunctions
+     4,275 faces optimized through MWT
+    12,636 triangles computed from MWT
+     1,042 faces created via optimization of MWT triangles
+    11,884 edges
+     5,475 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 284 >= 127)
@@ -115,21 +115,21 @@ Wrote EldritchTrenches.bsp
 
 count   lump name    byte size 
       1 models               64
-   1939 planes            38780
-   6036 vertexes          72432
-   2893 nodes             69432
-    409 texinfos          16360
-   5180 faces            103600
-   6286 clipnodes         50288
-   1285 leafs             35980
-   6126 marksurfaces      12252
-  11284 edges             45136
-  22539 surfedges         90156
-     29 textures         319480
+   1957 planes            39140
+   6339 vertexes          76068
+   3041 nodes             72984
+    436 texinfos          17440
+   5475 faces            109500
+   6562 clipnodes         52496
+   1356 leafs             37968
+   6223 marksurfaces      12446
+  11885 edges             47540
+  23744 surfedges         94976
+     35 textures         385024
         lightdata             0
         visdata               0
-        entdata           16117
+        entdata           17922
 
-0.992s seconds elapsed
+0.976s seconds elapsed
 
 
