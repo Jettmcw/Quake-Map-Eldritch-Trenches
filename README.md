@@ -8,5 +8,5 @@ This project's documentation and journaling can be found in the [Project Wiki.](
 ### The Trenches
 <img width="2537" height="1578" alt="Screenshot 2026-03-30 225154" src="https://github.com/user-attachments/assets/34a57551-769f-4e91-849b-5301d3018871" />
 
-## Top-Down View
+### Top-Down View
 <img width="1320" height="1051" alt="Screenshot 2026-03-30 224759" src="https://github.com/user-attachments/assets/65f5ad42-5fd3-498d-a656-8568f81449c2" />
