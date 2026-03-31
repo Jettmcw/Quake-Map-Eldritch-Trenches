@@ -1,7 +1,9 @@
+// Game: Quake
+// Format: Valve
 // entity 0
 {
 "mapversion" "220"
-"wad" "..\..\..\..\extras\quake\prototype-wad\prototype_basic_1_3.wad;..\..\..\..\extras\quake\trenchbroom-quake-map-source\QUAKE101.WAD;Wads\id_unused\medieval_unused.wad;Wads\id_unused\wizard_unused.wad;Wads\hexentex\hexen.wad;Wads\ikbase_r2\IKBASE.WAD;Wads\RuneResized.wad\RuneResized.wad"
+"wad" "..\..\..\..\..\extras\quake\prototype-wad\prototype_basic_1_3.wad;..\..\..\..\..\extras\quake\trenchbroom-quake-map-source\QUAKE101.WAD;Wads\id_unused\medieval_unused.wad;Wads\id_unused\wizard_unused.wad;Wads\hexentex\hexen.wad;Wads\ikbase_r2\IKBASE.WAD;Wads\RuneResized.wad\RuneResized.wad"
 "classname" "worldspawn"
 // brush 0
 {
